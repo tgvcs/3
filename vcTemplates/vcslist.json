@@ -1,0 +1,8 @@
+[
+  {
+        "template": "McaclDiplomeCfaSchemaV0",
+        "name": "Diplôme cfa",
+        "description": "Diplôme obtenu en fin de formation",
+        "source": "jxt"
+  }
+]
