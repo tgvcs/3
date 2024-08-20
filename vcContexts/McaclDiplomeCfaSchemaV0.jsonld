@@ -14,7 +14,7 @@
                 "nom": "schema:name",
                 "prenoms": "schema:name",
                 "dateNaissance": "schema:name",
-                "lieuDeNaissance": "schema:name",
+                "lieuNaissance": "schema:name",
                 "specialite": "schema:name",
                 "prefecture": "schema:name",
                 "session": "schema:name",
