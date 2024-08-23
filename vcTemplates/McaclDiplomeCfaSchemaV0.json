@@ -48,7 +48,7 @@
                 "encoder": "string"
             },
             {
-                "path": "credentialSubject.lieuDeNaissance",
+                "path": "credentialSubject.lieuNaissance",
                 "encoder": "string"
             },
             {
