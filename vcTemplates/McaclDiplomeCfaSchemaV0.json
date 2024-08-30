@@ -36,6 +36,10 @@
                 "encoder": "string"
             },
             {
+                "path": "credentialSubject.uid",
+                "encoder": "string"
+            },
+            {
                 "path": "credentialSubject.nom",
                 "encoder": "string"
             },
